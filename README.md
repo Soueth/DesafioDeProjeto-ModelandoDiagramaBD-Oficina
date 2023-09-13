@@ -1,6 +1,4 @@
-# Desafio de Projeto - Modelando um diagrama EER para um banco de dados de uma oficina
-
-<br>
+# Desafio de Projeto - Modelando um diagrama EER para um banco de dados de uma oficina <br>
 
 ## <b>📝NARRATIVA:</b> <br>
 * Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica;
